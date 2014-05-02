@@ -1,0 +1,25 @@
+{
+  "name": "broccoli-indexify",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thomasboyt/broccoli-indexify.git"
+  },
+  "author": "Thomas Boyt <me@thomasboyt.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomasboyt/broccoli-indexify/issues"
+  },
+  "homepage": "https://github.com/thomasboyt/broccoli-indexify",
+  "dependencies": {
+    "mkdirp": "^0.4.0",
+    "rsvp": "^3.0.6",
+    "lodash": "^2.4.1",
+    "broccoli-filter": "^0.1.6"
+  }
+}
